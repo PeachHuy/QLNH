@@ -1,0 +1,31 @@
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\bin\Debug\QLNH2.exe.config
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\bin\Debug\QLNH2.exe
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\bin\Debug\QLNH2.pdb
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.Form1.resources
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.Properties.Resources.resources
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.CopyComplete
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.exe
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.pdb
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.Form2.resources
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.THỰC_ĐƠN.resources
+C:\Users\Admin\Documents\NAM 3 k2\Thuc Tap CSDL\QLNH2\QLNH2\obj\Debug\QLNH2.DANH_MỤC.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\bin\Debug\QLNH2.exe.config
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\bin\Debug\QLNH2.exe
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\bin\Debug\QLNH2.pdb
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.DANH_MỤC.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.Form1.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.Form2.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.THỰC_ĐƠN.resources
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.exe
+C:\Users\Admin\OneDrive\Documents\C#\QLNH2\QLNH2\obj\Debug\QLNH2.pdb
